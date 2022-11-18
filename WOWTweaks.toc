@@ -1,8 +1,8 @@
 ## Author: Vandiel
 ## Interface: 100002
 ## Notes: Merchant Fix, Sell All Gray Automatic, Chat Fade Disable
-## Title: .|TInterface\GossipFrame\TrainerGossipIcon:0|t WOWTweaks
+## Title: .|TInterface\GossipFrame\TrainerGossipIcon:0|t WOW Tweaks
 ## Version: 2.0
 ### No Saved Variables
 
-ShowAllClass.lua
+WOWTweaks.lua
